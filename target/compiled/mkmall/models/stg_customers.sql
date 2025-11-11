@@ -1,0 +1,1 @@
+select * from sourcedb.mk_mall.customers
